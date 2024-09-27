@@ -1,5 +1,5 @@
 💫 About Me:
-I'm a Data Science student with a strong interest in web development and security. <br>I'm currently looking for PhD programs or scholarships to advance my skills and pursue research in these fields.<br>
+I'm a Data Science student with a strong interest in web development and security. <br>I'm currently looking for PhD programs or scholarships to advance my skills and pursue research in these fields.<br> I'm also want to know more about AI (i have a bit insight of it)<br>
 
 
 ## 🌐 Socials:
